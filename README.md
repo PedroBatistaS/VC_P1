@@ -1,9 +1,9 @@
 # VC_P1
 ## Práctica 1 Visión por Computación 2024/2025
 ### Contenidos 
-- [Entorno](Entorno)
-- [Tareas realizadas](Tareas-Realizadas)
-- [Fuentes](Fuentes)
+- [Entorno](#Entorno)
+- [Tareas realizadas](#Tareas-Realizadas)
+- [Fuentes](#Fuentes)
 ### Entorno 
 Para esta práctica se tuvo que descargar e instalar [Anaconda](https://www.anaconda.com/) además de tener Visual Studio Code y sus respectivas extensiones. Una vez se complete lo mencionado anterior, se lanza el anaconda prompt para poder crear el entorno:
   - En esta práctica se crea el entorno con la versión de Python 3.11.5 con el siguiente comando: `conda create --name VC_P1 python=3.11.5`
